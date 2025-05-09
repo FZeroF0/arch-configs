@@ -19,3 +19,4 @@ pulseaudio-bluetooth
 bluez-utils
 bluez
 bluez-hid2hci
+network-manager-applet
